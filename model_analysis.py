@@ -18,8 +18,8 @@ import os
 parser = argparse.ArgumentParser(description='Specify term type')
 parser.add_argument('--term', type=str, help="specify the surface termination A or B", required=True)
 
-parser.add_argument('-pdp_1d', action='store_true', help="Perform 1d pdp plot for ")
-parser.add_argument('-pdp_2d', action='store_true', help="Perform 2d pdp plot for ")
+parser.add_argument('--pdp_1d', action='store_true', help="Perform 1d pdp plot for ")
+parser.add_argument('--pdp_2d', action='store_true', help="Perform 2d pdp plot for ")
 args = parser.parse_args()
 
 if not os.path.exists('results'):
