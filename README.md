@@ -10,7 +10,7 @@ The following paper describes the details of the analysis:
 
 <img src="./img/Periodic_table.png" width="620" height="400">
 
-##Table of Contents
+## Table of Contents
 - [Prerequisites](#prerequisites)
 - [Usage](#usage)
 
