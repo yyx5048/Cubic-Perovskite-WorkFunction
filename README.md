@@ -1,10 +1,10 @@
 # Cubic-Perovskite-WorkFunction
 
-This repository contains the dataset perovskites' work functions using first principles, and the electronic descriptors
- to perform data-driven analysis. This work aims to identify and understand the electronic factors that controll the
- work functions of perovskite oxides.
+This repository contains the dataset perovskites' work functions using first principles and the electronic descriptors
+ to perform data-driven analysis. This work aims to identify the electronic factors and how they control perovskite 
+ oxides' work functions.
  
- The following paper describes the details of the analysis:
+The following paper describes the details of the analysis:
  
  **Data-driven analysis of the electronic factors controlling the work functions of perovskite oxides**
 
